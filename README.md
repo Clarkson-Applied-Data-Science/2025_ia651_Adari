@@ -91,10 +91,8 @@ High — thus strict temporal split used
   - Avoids need for explicit lag features
 
 ###  Other Models Tried
-- Linear Regression
-- Random Forest
-- Simple Feedforward NN  
-These underperformed due to lack of temporal awareness
+- SARIMA Model
+The underperformed due to lack of temporal awareness
 
 ###  Hyperparameter Tuning
 - Window size = 10
