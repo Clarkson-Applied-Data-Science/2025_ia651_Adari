@@ -1,6 +1,6 @@
 # NYC Traffic Volume Forecasting Using RNNs
 
-##  Dataset(s) Description
+##  Dataset Description
 
 ###  Overview
 The dataset was sourced from NYC Open Data and includes hourly vehicle counts collected using road sensors across multiple locations in New York City. This data has been aggregated to a daily level for modeling. Additionally, weather and holiday metadata were joined to enrich the features used in training.
